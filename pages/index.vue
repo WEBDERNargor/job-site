@@ -1,6 +1,14 @@
 <template>
 <div class="container mx-auto">
-home
+    <div class="grid grid-cols-2 gap-4 w-full">
+  <div>
+    
+  </div>
+  
+  <div>
+
+  </div>
+</div>
 </div>
 </template>
 
